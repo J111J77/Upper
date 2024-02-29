@@ -1,0 +1,7 @@
+{
+  "name": "Listasuper",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
